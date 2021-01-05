@@ -56,12 +56,12 @@ public class Order implements Serializable{
 		this.id = id;
 	}
 
-	public String getEndereco() {
+	public String getAddress() {
 		return address;
 	}
 
-	public void setEndereco(String endereco) {
-		this.address = endereco;
+	public void setaddress(String address) {
+		this.address = address;
 	}
 
 	public double getLongitude() {
