@@ -6,7 +6,7 @@ function Footer(){
     return(
         <footer className="main-footer">
             App desenvolvida durante a segunda edição do evento DevSuperior<br />
-            Desenvolvido por Marcos Pereira sob orientação dos mestres: Washington Soares e Nélio Alves
+            Desenvolvida por Marcos Pereira sob orientação dos mestres: Washington Soares e Nélio Alves
             <div className="footer-icons">
                 <a href="https://youtube.com/c/DevSuperior" target="_new">
                     <YoutubeIcon />
